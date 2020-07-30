@@ -15,7 +15,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato%7cUbuntu" rel="stylesheet"> 
     
     <!-- Edit the name of your style sheet - 'foo' is not a valid name!! -->
-    <link rel="stylesheet" href="no_side.css"> 
+    <link rel="stylesheet" href="css/bookstyle.css"> 
     
 </head>
     
@@ -46,6 +46,11 @@
             <a href="page3.html">Page 3</a> | 
             <a href="contact.html">Contact</a>
         </div>    <!-- / nav -->        
+        
+        <div class="box side">
+            this is the side bar
+        
+        </div>
         
         <div class="box main">
             <h2>First Page heading</h2>
