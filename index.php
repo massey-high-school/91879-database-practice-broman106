@@ -4,9 +4,10 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Put Content Here">
-    <meta name="keywords" content="Put keywords here">
-    <meta name="author" content="Put your name here">
+    <meta name="description" content="Book Review Database">
+    <meta name="keywords" content="books, raeding, fiction, nonfiction 
+    genre, reviews">
+    <meta name="author" content="MACE MATTHEWS">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <title>Website Title goes here</title>
@@ -30,30 +31,36 @@
         <!-- logo image linking to home page goes here -->
         <a href="index.php">
             <div class="box logo"  title="Logo - Click here to go to the Home Page">
-            <img class="img-circle" src="images/gen_logo.png" width="150" height="150" alt="generic logo" />
+            <img class="img-circle" src="images/wolf_logo.jpg" width="150" height="150" alt="generic logo" />
             
             </div>    <!-- / logo -->
         </a>
             
-            <h1>Website Name</h1>
+            <h1>Orchid Reading</h1>
         </div>    <!-- / banner -->
-
-        <!-- Navigation goes here.  Edit BOTH the file name and the link name -->
-        <div class="box nav">
-            <a href="index.html">Home</a> | 
-            <a href="page1.html">Page 1</a> | 
-            <a href="page2.html">Page 2</a> | 
-            <a href="page3.html">Page 3</a> | 
-            <a href="contact.html">Contact</a>
-        </div>    <!-- / nav -->        
+       
         
         <div class="box side">
-            this is the side bar
+        <h2>Side Bar</h2>
+            
+            <p>items  </p>
+            
+            <ul>
+            <li>Here</li>
+            <li>is</li>
+            <li>a</li>
+            <li>list</li>
+        </ul>
         
-        </div>
+        </div>  <!-- / side bar -->
+        
+        
         
         <div class="box main">
-            <h2>First Page heading</h2>
+            
+        <h1>Heading for main  bit</h1>
+
+           
             
             <p>
                 Sugar plum powder dessert bonbon powder lollipop lollipop muffin I love. Tiramisu dessert I love sugar plum apple pie marzipan chocolate bar brownie. Pudding tiramisu caramels biscuit tiramisu. I love gummies gummies pie sweet pudding I love I love. Donut halvah candy oat cake donut. Caramels wafer danish jelly-o.

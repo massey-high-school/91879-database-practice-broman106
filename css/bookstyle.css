@@ -14,7 +14,6 @@ body {
     grid-template-rows: auto;
     grid-template-areas: 
         "banner banner"
-        "nav nav"
         "side main"
         "footer footer";
         grid-gap: 4px;
